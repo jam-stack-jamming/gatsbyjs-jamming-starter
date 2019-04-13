@@ -9,7 +9,7 @@ module.exports = {
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
   disqusShortname: '', // Disqus shortname.
-  netlifyCmsHtmlDescription: 'Gatsby Starter Business Content Manager',
+  netlifyCmsHtmlDescription: 'Gatsby Jamming Starter Content Manager',
   userName: '',
   userTwitter: '',
   userLocation: '',
